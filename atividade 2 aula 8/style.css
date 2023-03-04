@@ -1,0 +1,50 @@
+.supernova {
+    background-image: url("lus.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 16% 0 0;
+    margin: auto;
+    width: 500px;
+ 
+  
+}
+body {
+    background: none;
+ 
+}
+/*.supernova, body {
+    background: none;
+}
+*/
+.form-all {
+    background: none !important;
+    box-shadow: none;
+    height: 590px;
+
+  
+    
+}
+body, .form-all {
+    margin-top: 0;
+}
+.form-header-group, [data-type="control_head"] {
+    background-color: #c9daf8;
+   
+}
+.form-subHeader {
+    color: #00b000 !important;
+}
+.form-sub-label {
+    color: #ffb21d;
+}
+.form-line-active {
+    background: #ccffcc;
+}
+.form-required {
+    color: rgb(0, 0, 0) !important;
+}
+.form-all {
+    margin: 0;
+}
